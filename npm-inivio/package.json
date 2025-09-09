@@ -1,0 +1,30 @@
+{
+  "name": "npm-pedro",
+  "version": "1.0.0",
+  "description": "Pacote para testar o npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro489-could/DDS-20-PEDRO-HTML-CSS.git"
+  },
+  "keywords": [
+    "npm",
+    "inicisl",
+    "tutorial"
+  ],
+  "author": "\"Pedro Popo\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro489-could/DDS-20-PEDRO-HTML-CSS/issues"
+  },
+  "homepage": "https://github.com/Pedro489-could/DDS-20-PEDRO-HTML-CSS#readme",
+  "dependencies": {
+    "react": "^19.1.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
