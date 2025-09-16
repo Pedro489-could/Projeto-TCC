@@ -6,16 +6,22 @@ import './App.css'
 import FirstComponent from './components/FirstComponent'
 import SecondComponent from './components/SecondComponent'
 import TemplateExpressions from './components/TemplateExpressions'
+import Events from './components/Events'
+import MostrarImagens from './components/MostrarImagens'
+import MostrarPcTop from './components/MostrarPcTop'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <TemplateExpressions />
+    {/* <TemplateExpressions />
      <FirstComponent />
       <SecondComponent />
-     
+      */}
+      <Events></Events>
+      <MostrarImagens></MostrarImagens>
+      <MostrarPcTop></MostrarPcTop>
     </>
   )
 }
